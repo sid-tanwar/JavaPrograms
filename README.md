@@ -1,2 +1,2 @@
 # JavaPrograms
-Java Programs performed in class.
+Java programs performed in class.
